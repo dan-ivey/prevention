@@ -1,5 +1,5 @@
-// Generated on 2022-05-06 using
-// generator-banner 1.9.7
+// Generated on 2022-05-24 using
+// generator-banner-th 2.0.8
 'use strict';
 
 // # Globbing
